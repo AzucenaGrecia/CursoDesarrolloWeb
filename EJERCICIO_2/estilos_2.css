@@ -1,0 +1,23 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+body{
+    font-family:'Josefin Sans', sans-serif; 
+}
+.contenedor{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+
+
+}
+.contenedor_two{
+    display: flex;
+    flex-direction: row;
+  }
+  
